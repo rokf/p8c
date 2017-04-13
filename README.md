@@ -1,2 +1,4 @@
-# p8c
-PICO-8 Cartridges
+GIF|FILE
+----|------
+![whirl](whirl.gif)|`whirl.p8`
+![atan](atan.gif)|`atan.p8`
